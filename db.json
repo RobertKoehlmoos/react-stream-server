@@ -1,3 +1,25 @@
 {
-    "streams": []
+  "streams": [
+    {
+      "title": "hello",
+      "description": "again",
+      "id": 5
+    },
+    {
+      "title": "more",
+      "description": "streams",
+      "id": 6
+    },
+    {
+      "title": "programmatic navigation",
+      "description": "history should now push change",
+      "id": 8
+    },
+    {
+      "title": "one more stream",
+      "description": "this is the description",
+      "userId": "116128837826320361910",
+      "id": 9
+    }
+  ]
 }
